@@ -1,0 +1,98 @@
+@import "bourbon";
+// @import "components/first_comp/_fonts.scss";
+// @import "components/first_comp/_vars.scss";
+// @import "components/first_comp/_normalize.scss";
+ // @import "components/first_comp/_animation.scss";
+ // @import "components/first_comp/animate.scss";
+  @import "components/first_comp/_reset.scss";
+
+
+// .container {
+// 	max-width: 1040px;
+// 	padding: 15px 20px;;
+// 	margin: 0 auto; //@extend
+// }
+//
+// .band-red {
+//   &:before {
+//     content: "";
+//     position: absolute;
+//     height: 2px;
+//     width: 45px;
+//     top: 0;
+//     left: 0;
+//     background-color: $ac-color;
+//   }
+// }
+//
+// .band-blue {
+//   &:before {
+//     content: "";
+//     position: absolute;
+//     height: 2px;
+//     width: 45px;
+//     top: 0;
+//     left: 0;
+//     background-color: $m-color;
+//
+//   }
+// }
+//
+// .btn {
+//   margin-top: 20px;
+//   width: 100%;
+//   padding: 15px ;
+//   font-size: 1.8rem;
+//   line-height: 1;
+//   background-color: $m-color;
+//   color: #fff;
+//   box-shadow: 0 5px 20px $m-color;
+//   border: 1px solid transparent;
+//   border-radius: 50px;
+//   text-align: left;
+//   transition: 0.5s;
+//   i {
+//     margin-left: 20px;
+//   }
+//   &:hover {
+//     box-shadow: none;
+//   }
+// }
+//
+// .clear_fix {
+//   &:after {
+//     content: "";
+//     display: table;
+//     clear: both;
+//   }
+// }
+
+//Load Libs SASS
+//  @import "html/libs/owl.carousel/assets/owl.carousel.min";
+//  @import "html/libs/font-awesome/scss/font-awesome";
+//  @import "html/libs/jQueryFormStyler-master/jquery.formstyler";
+//   // @import "html/libs/fancybox/source/jquery.fancybox";
+// // @import "html/libs/jquery-ui-1.12.0/jquery-ui.min.scss";
+// @import "html/libs/magnific-popup/dist/magnific-popup";
+
+
+
+//Custom Styles Here
+// @import "components/_header.scss";
+
+ @import "components/_plugin.scss";
+ @import "components/_style.scss";
+  @import "components/_color.scss";
+// @import "components/_materials.scss";
+// @import "components/_quality.scss";
+// @import "components/_reviews.scss";
+// @import "components/_way.scss";
+// @import "components/_gallery.scss";
+// @import "components/_director.scss";
+// @import "components/_footer.scss";
+// @import "components/_all__popup.scss";
+
+ // @import "components/first_comp/magnific-popup.scss";
+
+//ALWAYS END
+// @import "components/first_comp/_media.scss";
